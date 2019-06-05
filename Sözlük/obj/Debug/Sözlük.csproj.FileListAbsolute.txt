@@ -1,0 +1,10 @@
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\bin\Debug\Sözlük.exe.config
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\bin\Debug\Sözlük.exe
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\bin\Debug\Sözlük.pdb
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.Form1.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.exe
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sözlük\Sözlük\obj\Debug\Sözlük.pdb
